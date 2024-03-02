@@ -52,3 +52,4 @@ It should spit you out an executable which you can then transfer to your Miyoo a
 - Download progress bar
 - Better error handling around failed downloads
 - Rom browser to make solution self-contained
+- Support for multi-disc downloads
