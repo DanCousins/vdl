@@ -1,5 +1,5 @@
 # vdl
- An OnionOS direct download utility for the Miyoo Mini Plus. Note: this utility will only work with roms hosted on Vimm's Lair, and is an unofficial tool made by me for me. This is the first project I've made in Go, and was mostly done for fun and to learn, so please take it easy on me when reading the code, and I'd be happy to take any feedback on improvements that could be made. :)
+ A direct download utility for the Miyoo Mini Plus. Note: this utility will only work with roms hosted on Vimm's Lair, and is an unofficial tool made by me for me. This is the first project I've made in Go, and was mostly done for fun and to learn, so please take it easy on me when reading the code, and I'd be happy to take any feedback on improvements that could be made. :)
 
 ## Installation and Usage
 
