@@ -27,7 +27,7 @@ In this case the ID is "3454". Type this into the downloader using the onscreen 
 | Gensis  | ✔️  | -  |
 | Super Nintendo  | ✔️  | -  |
 | Sega 32X  | ✔️  | -  |
-| Playstation  | ❌  | Currently files are downloaded as .7z, need functionality to unzip  |
+| Playstation  | ✔️  | Only single disc games currently supported, and they can be very slow to extract. ~28 seconds for a 57MB game uncompressed. |
 | Game Boy  | ✔️  | -  |
 | Lynx  | ✔️  | -  |
 | Game Gear  | ✔️  | -  |
@@ -48,8 +48,8 @@ go build
 It should spit you out an executable which you can then transfer to your Miyoo and run as above. 
 
 ## Planned Features
-- PS1 compatibility
 - Download progress bar
 - Better error handling around failed downloads
 - Rom browser to make solution self-contained
 - Support for multi-disc downloads
+- Investigate faster unarchiving of PS1 games
