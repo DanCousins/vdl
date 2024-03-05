@@ -13,7 +13,7 @@ Navigate to the Terminal on your Miyoo (in the Apps folder, and can be installed
 ```
 This assumes you've stored it in the root of your SD card. You can use the SELECT button to tab, and the START button as enter. So you can type "./v", then press SELECT to autocomplete, and then press START to run the application. 
 
-You will then get a prompt to enter the Vault ID of the rom you wish to download, you can locate the Vault ID here (https://vimm.net/):
+You will then get a prompt to enter the Vault ID of the rom you wish to download, you can locate the Vault ID here:
 
 ![Screenshot showing how to identify the vault ID of your rom from the url of the rom hosting site.](https://imgkk.com/i/1iqq.png)
 
